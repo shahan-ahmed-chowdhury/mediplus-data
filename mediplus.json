@@ -1,0 +1,56 @@
+[
+   {
+      "id":"1",
+      "name":"Blood Bank",
+      "image":"https://i.ibb.co/Qn78DLW/bolood-donation.png",
+      "description":"Blood drives life, it’s constantly circulating within the human body ensuring that all essential substances."
+   },
+   {
+      "id":"2",
+      "name":"Pathology",
+      "image":"https://i.ibb.co/dM1PC5W/lab-icon.jpg",
+      "description":"Our State-of-the-Art facilities along with a dedicated team of Pathologists, offer you the most Advanced Diagnosis and Accurate Results."
+   },
+   {
+      "id":"3",
+      "name":"Dental Sciences",
+      "image":"https://i.ibb.co/mRb3Hd6/Dental-Sciences.png",
+      "description":"We have a team of specialists in every field of Dentistry, Orthodontics, Periodontics, Prosthodontics, and Endodontics."
+   },
+   {
+      "id":"4",
+      "name":"Diabetology",
+      "image":"https://i.ibb.co/BKXQqx9/Diabetology.jpg",
+      "description":"Bring your Diabetes under control with the help of our Diabetologists. Experienced care. Right treatment plan."
+   },
+   {
+      "id":"5",
+      "name":"Heart Transplant",
+      "image":"https://i.ibb.co/8d5GpMX/Heart-Transplant.jpg",
+      "description":"There is nothing more complex than doing Transplants, and for that reason, we work with a team of medical professionals that are veterans in the field of Heart Transplants."
+   },
+   {
+      "id":"6",
+      "name":"Internal Medicine",
+      "image":"https://i.ibb.co/Srq9R8h/Internal-Medicine.jpg",
+      "description":"The Internal Medicine Department is committed to providing complete Personalized and Preventive Healthcare Services."
+   },
+   {
+      "id":"7",
+      "name":"Microbiology",
+      "image":"https://i.ibb.co/FY7zcmB/Microbiology.png",
+      "description":"With Complete Automation of the Lab, our Microbiologists provides the Right Analysis for various samples and are best in their field."
+   },
+   {
+      "id":"8",
+      "name":"Neurology",
+      "image":"https://i.ibb.co/FXLKWyK/Neurology-science-and-brain-research-concept-Vector-flat-person-illustration-Male-scientist-studying.jpg",
+      "description":"Our team of expert Neurologists provide Accurate Diagnosis and Care for a wide range of Neurological Conditions."
+   },
+   {
+      "id":"9",
+      "name":"General Surgery",
+      "image":"https://i.ibb.co/KhQH581/General-Surgery.jpg",
+      "description":"The General Surgery Department at Narayana Health comprises of highly experienced senior surgeons and competent staff."
+   }
+]
