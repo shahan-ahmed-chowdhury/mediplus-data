@@ -1,0 +1,17 @@
+[
+   {
+      "id":"1",
+      "name":"Dr. Jamison",
+      "degree":"MBBS, Medicine, Heart Specialist"
+   },
+   {
+      "id":"2",
+      "name":"Dr. Emi Makkar",
+      "degree":"MBBS, Medicine, Child Specialist"
+   },
+   {
+      "id":"3",
+      "name":"Dr. Nora Rafi",
+      "degree":"MBBS, Medicine, Skin Specialist"
+   }
+]
