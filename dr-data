@@ -10,12 +10,12 @@
       "name":"Dr. Jamison",
       "image":"https://i.ibb.co/b79PM14/Portrait-of-a-smiling-handsome-male-doctor-dressed-in-uniform-with-stethoscope-showing-thumbs-up-ges.jpg",
       "degree":"MBBS, Medicine, Heart Specialist"
-   }
+   },
    {
       "id":"3",
       "name":"Dr. Emi Makkar",
       "image":"https://i.ibb.co/HgdP2QN/doubtful-young-female-doctor-wearing-medical-robe-and-stethoscope-around-neck-keeping-hand-on-chin-l.jpg",
       "degree":"MBBS, Medicine, Child Specialist"
-   },
+   }
    
 ]
